@@ -46,6 +46,10 @@ tech-challenge-fase3/
 
 A base utilizada foi a `dataset_alfabetizacao_unificada.csv`.
 
+***OS DADOS CARREGADOS DENTRO DA PASTA DATA/ SÃO UMA AMOSTRA DEVIDO AO TAMANHO DA BASE FINAL GERADA NA FASE ANTERIOR ***
+
+- AS ANALISES DENTRO DO NOTEBOOK ESTÃO COM A BASE COM A SUA TOTALIDADE
+
 A base possui:
 
 - 1.048.575 registros;
